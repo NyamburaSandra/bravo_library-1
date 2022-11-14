@@ -26,8 +26,6 @@ body{
 .container  h2{
   color:white
 }
-
-
 h2{
   color: #fff;
 }
@@ -39,10 +37,6 @@ button > a {
 button > a:hover {
   color: white;
 }
-.jumbotron{
-  background-size:cover;
-}
-
 .navbar-nav>.nav-item>.active>a {
   color: cornflowerblue;
 }

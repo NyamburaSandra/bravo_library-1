@@ -9,8 +9,7 @@ function Home() {
         <h1 className="display-5 fw-bold lib">Bravo Library</h1>
         <p className="col-md-8 fs-4">
           Welcome to The Bravo Library.<br/>
-          Using a series of utilities, you can create this jumbotron, just like the one in previous versions of Bootstrap.<br/>
-          Check out the examples below for how you can remix and restyle it to your liking.
+          Using a series of utilities,to create imaginations.<br/>
         </p>
         <button className="btn btn-primary btn-lg" type="button">
           <NavLink to={'/books'}>My Library</NavLink>
